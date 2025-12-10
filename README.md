@@ -8,6 +8,8 @@ Aqui mostro meus projetos desenvolvidos, conto sobre minha trajetória, experiê
 
 Sou um **Engenheiro de Software** com background em Engenharia Elétrica e vasta experiência em gestão de operações. Meu foco não é **ecossistemas inteligentes** que funcionam sozinhos. Transito entre a construção de interfaces intuitivas no Mobile e a arquitetura de automações complexas no Backend.
 
+Aqui mostro meus projetos desenvolvidos, conto sobre minha trajetória, experiências e solução de problemas
+
 ---
 
 ### O que eu faço
